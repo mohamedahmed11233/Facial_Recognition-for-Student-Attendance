@@ -1,0 +1,6 @@
+@Facial_Emotion_Recognition_for_Student_Attendance_HostAddress = http://localhost:5020
+
+GET {{Facial_Emotion_Recognition_for_Student_Attendance_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

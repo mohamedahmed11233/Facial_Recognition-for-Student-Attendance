@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facial_Emotion Recognition for Student Attendance", "Facial_Emotion Recognition for Student Attendance\Facial_Emotion Recognition for Student Attendance.csproj", "{F138041F-718C-409D-A9CB-05FE70DA8B28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkDev.Facial_Recognition.DAL", "LinkDev.Facial_Recognition.DAL\LinkDev.Facial_Recognition.DAL.csproj", "{4688A45A-D96D-4248-BA24-7DBFE1FDE557}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkDev.Facial_Recognition.BLL", "LinkDev.Facial_Recognition.BLL\LinkDev.Facial_Recognition.BLL.csproj", "{B25CF2B3-8714-4BA1-A224-91589DB61828}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F138041F-718C-409D-A9CB-05FE70DA8B28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F138041F-718C-409D-A9CB-05FE70DA8B28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F138041F-718C-409D-A9CB-05FE70DA8B28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F138041F-718C-409D-A9CB-05FE70DA8B28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4688A45A-D96D-4248-BA24-7DBFE1FDE557}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4688A45A-D96D-4248-BA24-7DBFE1FDE557}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4688A45A-D96D-4248-BA24-7DBFE1FDE557}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4688A45A-D96D-4248-BA24-7DBFE1FDE557}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B25CF2B3-8714-4BA1-A224-91589DB61828}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B25CF2B3-8714-4BA1-A224-91589DB61828}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B25CF2B3-8714-4BA1-A224-91589DB61828}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B25CF2B3-8714-4BA1-A224-91589DB61828}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6571E990-A94B-4436-8FFF-CABA2C92228D}
+	EndGlobalSection
+EndGlobal
